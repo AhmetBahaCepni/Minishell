@@ -14,6 +14,7 @@
 
 t_data	*g_data;
 
+// Prints prompt
 char	*ft_prompt(void)
 {
 	char	*prompt;
